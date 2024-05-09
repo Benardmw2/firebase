@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762976588986",
+    "project_id": "fir-mid-26cfa",
+    "storage_bucket": "fir-mid-26cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762976588986:android:36bd4c435315b2ba5d1e83",
+        "android_client_info": {
+          "package_name": "com.ben.firebase_mid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUJ0g1QJ5NlCXlWmuqvFubfxg797ZbIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
